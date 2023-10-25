@@ -21,3 +21,18 @@ Aulas de Lógica de Programação
 2) Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 3) Faça um programa que some os número de uma lista e imprima o resultado.
 
+## Dicionários
+
+# Basico
+
+1) Crie um dicionário com o seu endereço. Ele deve conter Rua, Número, CEP, bairro, Cidade, estado e país.
+2) Imprima a cidade
+3) Imprima a rua
+
+### Intermediário
+
+1) Crie um dicionário chamado estoque que represente um inventário de produtos. Cada chave é um nome de produto e o valor é a quantidade disponível.
+2) Escreva um programa que atualize o estoque, adicionando 10 unidades a um produto específico.
+3) Crie uma função que calcule o valor total do estoque, multiplicando a quantidade de cada produto pelo seu preço unitário.
+4) Remova um produto do dicionário estoque se a quantidade disponível for zero.
+
